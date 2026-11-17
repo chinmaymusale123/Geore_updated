@@ -1,0 +1,8 @@
+{
+  "name": "GEORE — Remote Sensing AI",
+  "description": "GEORE — Agentic remote sensing analysis instrument for satellite imagery. Visual Q&A, grounding, change detection, optical-SAR fusion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
